@@ -1,0 +1,18 @@
+@font-face {
+    font-family: calligraphy;
+    src: url("../assets/fonts/SCRIPTIN.ttf")
+}
+
+.header {
+
+}
+
+#title {
+    font-size: 100px;
+    text-align: center;
+    font-family: calligraphy;
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
