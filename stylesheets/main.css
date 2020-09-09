@@ -1,11 +1,9 @@
 @font-face {
     font-family: calligraphy;
-    src: url("../assets/fonts/SCRIPTIN.ttf")
+    src: url("../assets/fonts/SCRIPALT.ttf")
 }
 
-.header {
-    
-}
+.header {}
 
 #title {
     font-size: 100px;
